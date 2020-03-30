@@ -48,13 +48,21 @@ After analysing all columns for 2019 survey results, I identified 4 questions to
  <li> Which Platforms are gaining/losing Popularity
  <li> Which Web Frameworks are gaining/losing Popularity
 </ul>
+
 **Languages**
+
 ![Language Comparision](https://lh3.googleusercontent.com/_AiBtSJ1hUj7oeXHDfGS4s54yrhhtQvdjF7O2eB_O333nVsmggv7XAPERKfDb6NfReRIFsDceh2igKVGWPURednOl-NTbm-4E7CTwaiEs0c3sjjoqQyE0ULbGTihZgsGPwfYYGVRpIo=w2400)
+
 **Database Environments**
+
 ![Database Comparision](https://lh3.googleusercontent.com/Scc2E99PJz8JAW0Lhp6zdj8MLvxou7fW5t_u99SBIMoUCIdJ9xi_1FqKVKvyUqhZoqwV-_J4Fo2pRsvKIW5WEhOfQYJZtD-YY2Pqru-bjqNnj7NDuQQrOM7L73dqAHf1QPGDY_xaYNQ=w2400)
+
 **Plaforms**
+
 ![Platform Comparision](https://lh3.googleusercontent.com/e-rGn3zAGOVQFvRA2oersNqXIVdVtgKRu23aFNjJbdCDOUzKOwN33qJI-NEg7bD-my3HxgBZztusK-DcD2xzSx7gg8w0cl296SBxByElEfrJ9bP7Ct6OZ4hZb5-3zYztAd2u7MdeejI=w2400)
+
 **Web Frameworks**
+
 ![Framework Comparision](https://lh3.googleusercontent.com/b9rwNlNHneJi7ocFIXMbiZmpXHoHWylcTo_w6i39EgeCkAkJQmCrnYXRLUlvySFwqz5CEcFttuc3pmqBPnQJexEFBwXHR2N0e_IlnkHrqZdC7Ej7leaYGHY846rPtgkQU9IB9q5kpjg=w2400)
 
 
