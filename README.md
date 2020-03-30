@@ -1,7 +1,16 @@
 # Stackoverflow_Survey_Analysis
  Analysis of Stackover flow surveys from 2011 to 2019
+ 
+ <ol>
+   <li><a href="#head1"> Libraries and tools used</a>
+   <li><a href="#head2"> Motivation of the project </a>
+   <li><a href="#head3"> Directory structure </a>
+   <li><a href="#head4"> Summary of the results </a>
+   <li><a href="#head5"> Acknowledgements </a>
+   <li><a href="#head6"> Author </a>
+</ol>
 
-## Libraries and tools used:
+<h2 id="head1"> Libraries and tools used: </h2>
 <ul>
  <li> Numpy
  <li> Pandas
@@ -10,11 +19,12 @@
  <li> Jupyter Notebook
 </ul>
 
-## Motivation of the project
+<h2 id="head2"> Motivation of the project</h2>
+
 To apply skills learned as part of Udacity Data Science Nanodegree lesson to derive insights and identify relevant questions to answer.
 In this project, I have used data collected from Stack Overflow survey conducted between 2011 and 2019.
 
-## Description of files in the repository
+<h2 id="head3"> Directory structure </h3>
 
 ```
 .
@@ -33,7 +43,7 @@ In this project, I have used data collected from Stack Overflow survey conducted
 
 ```
 
-## Summary of the results
+<h2 id="head4"> Summary of the results </h2>
 
 I identified two questions common in surveys across the years - Language used and Job Satisfaction. After cleaning up the data, I dentified trends across the years.
 **Top Languages**
@@ -67,14 +77,14 @@ After analysing all columns for 2019 survey results, I identified 4 questions to
 
 Link to Medium article based on the analysis - https://medium.com/@shahzeb.akhtar/an-analysis-of-top-programming-languages-and-technologies-7eb7683941a1
 
-## Acknowledgements
+<h2 id="head5"> Acknowledgements </h2>
 
 <ul>
  <li> Udacity https://www.udacity.com/
  <li> StackOverflow  https://insights.stackoverflow.com/survey
 </ul>
 
-## Author
+<h2 id="head6"> Author </h2>
 
 Shahzeb Akhtar
 
