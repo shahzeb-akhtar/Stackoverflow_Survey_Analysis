@@ -3,21 +3,16 @@
 
 ## Libraries and tools used:
 <ul>
-<li> Numpy </li>
-<li> Pandas </li>
-<li> MatPlotlib </li>
-<li> Seaborn </li>
-<li> Jupyter Notebook
- </ul>
+ <li> Numpy
+ <li> Pandas
+ <li> MatPlotlib
+ <li> Seaborn
+ <li> Jupyter Notebook
+</ul>
 
 ## Motivation of the project
-To analyze a set of data in order to derive insights and answer certain questions.
-In this project, I have used data collected from Stack Overflow survey conducted between 2011 and 2019. Using the data I have tried to find insights/trends that answer the following questions:
-<ul>
- <li> What are the trends of the programming languages
- <li> What are the trends of Database technologies
- <li> What are the trends of Platform used
-</ul>
+To apply skills learned as part of Udacity Data Science Nanodegree lesson to derive insights and identify relevant questions to answer.
+In this project, I have used data collected from Stack Overflow survey conducted between 2011 and 2019.
 
 ## Description of files in the repository
 
@@ -39,6 +34,25 @@ In this project, I have used data collected from Stack Overflow survey conducted
 ```
 
 ## Summary of the results
+
+I identified two questions common in surveys across the years - Language used and Job Satisfaction. After cleaning up the data, I dentified trends across the years.
+**Top Languages**
+![Trend - Top Languages](https://lh3.googleusercontent.com/EXWi4isOBVH6NLkIUlQCGdlDlSujV1E3a27ghsBPrHNY1lgKZDN7mX2CTlnblDPH8wGoiIzCGaLcksHpux21UQPVK8ItTM261ZNaf7HS2CdBYfCXa8NMAlxed-nmofZWC8rCeW-dcIc=w2400)
+**Job Satisfaction**
+![Trend - Job Satisfaction](https://lh3.googleusercontent.com/jq70NnTKEt2V6ZdNC_7LcwYWsRPLUArSDhlkppU_EQKj3n6IM_e4nSQNpQetLsyV8TRS6xCqBLvRh_ZzKGHcBcPIF2Ojy6au329yMju5NNYL6pZaHYg8eaFN3J6N-RBCVMJtQZj9baM=w2400)
+
+After analysing all columns for 2019 survey results, I identified 4 questions to answer:
+<ul>
+ <li> Which Languages are gaining/losing Popularity
+ <li> Which Database Environments are gaining/losing Popularity
+ <li> Which Platforms are gaining/losing Popularity
+ <li> Which Web Frameworks are gaining/losing Popularity
+</ul>
+
+![Language Comparision](https://lh3.googleusercontent.com/_AiBtSJ1hUj7oeXHDfGS4s54yrhhtQvdjF7O2eB_O333nVsmggv7XAPERKfDb6NfReRIFsDceh2igKVGWPURednOl-NTbm-4E7CTwaiEs0c3sjjoqQyE0ULbGTihZgsGPwfYYGVRpIo=w2400)
+![Database Comparision](https://lh3.googleusercontent.com/Scc2E99PJz8JAW0Lhp6zdj8MLvxou7fW5t_u99SBIMoUCIdJ9xi_1FqKVKvyUqhZoqwV-_J4Fo2pRsvKIW5WEhOfQYJZtD-YY2Pqru-bjqNnj7NDuQQrOM7L73dqAHf1QPGDY_xaYNQ=w2400)
+![Platform Comparision](https://lh3.googleusercontent.com/e-rGn3zAGOVQFvRA2oersNqXIVdVtgKRu23aFNjJbdCDOUzKOwN33qJI-NEg7bD-my3HxgBZztusK-DcD2xzSx7gg8w0cl296SBxByElEfrJ9bP7Ct6OZ4hZb5-3zYztAd2u7MdeejI=w2400)
+![Framework Comparision](https://lh3.googleusercontent.com/b9rwNlNHneJi7ocFIXMbiZmpXHoHWylcTo_w6i39EgeCkAkJQmCrnYXRLUlvySFwqz5CEcFttuc3pmqBPnQJexEFBwXHR2N0e_IlnkHrqZdC7Ej7leaYGHY846rPtgkQU9IB9q5kpjg=w2400)
 
 
 ## Acknowledgements
