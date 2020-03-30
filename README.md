@@ -65,6 +65,7 @@ After analysing all columns for 2019 survey results, I identified 4 questions to
 
 ![Framework Comparision](https://lh3.googleusercontent.com/b9rwNlNHneJi7ocFIXMbiZmpXHoHWylcTo_w6i39EgeCkAkJQmCrnYXRLUlvySFwqz5CEcFttuc3pmqBPnQJexEFBwXHR2N0e_IlnkHrqZdC7Ej7leaYGHY846rPtgkQU9IB9q5kpjg=w2400)
 
+Link to Medium article based on the analysis - https://medium.com/@shahzeb.akhtar/an-analysis-of-top-programming-languages-and-technologies-7eb7683941a1
 
 ## Acknowledgements
 
