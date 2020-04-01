@@ -38,8 +38,15 @@ In this project, I have used data collected from Stack Overflow survey conducted
     ├── 2016_Stack_Overflow_Survey_Responses.csv
     ├── 2017_survey_results_public.csv
     ├── 2018_survey_results_public.csv
-    ├── 2019_survey_results_public.csv  
-├── Stack_Overflow_Survey_Analysis.ipynb                    # Code compiled in Jupyter notebook
+    ├── 2019_survey_results_public.csv 
+├── Datasets                                                # Images used 
+    ├── Top Languages.png
+    ├── Languages_Comparison.png
+    ├── Databases_Comparison.png
+    ├── Platforms_Comparison.png
+    ├── Frameworks_Comparison.png    
+├── Stack_Overflow_Survey_Analysis.ipynb                    # Jupyter notebook for main analysis
+├── Stackoverflow_2019_Survey_Exploration.ipynb             # Jupyter notebook forexploration of 2019 survey
 ├── README.md                                               # ReadMe file
 
 ```
